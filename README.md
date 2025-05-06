@@ -7,7 +7,9 @@
 </p>
 
 ---
-🎯 I am a website and software developer. <br>
+🎯 I am currently transitioning into the Business Analyst (BA) field. <br>
+🧠 I am passionate about analyzing business needs, optimizing processes, and bridging the gap between business and technology. <br>
+📈 I am learning how to apply tools such as UML, BPMN, and user stories to improve software development efficiency.  <br>
 🌍 I come from Binh Dinh, Viet Nam <br>
 🔥 I am passionate about building creative and efficient products. <br>
 📚 I am currently studying at UFM <br>
