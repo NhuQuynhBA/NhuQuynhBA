@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/UML-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/BPMN-0052CC?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/User%20Stories-F48C06?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
   <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" />
@@ -67,5 +68,5 @@
   <a href="mailto:caonhuquynhwl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.facebook.com/caonhuquynhwl3004" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://NhuQuynhBA.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nhuquynhba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://[www.linkedin.com/in/nhuquynhba](https://www.linkedin.com/in/nh%C6%B0-qu%E1%BB%B3nh-cao-425011359/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
