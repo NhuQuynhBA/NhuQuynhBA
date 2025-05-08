@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=NhuQuynhBA&label=visitors&color=blue&style=flat" alt="NhuQuynhBA" />
+  <img src="https://komarev.com/ghpvc/?username=NhuQuynhBA&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
 <!-- Banner -->
@@ -9,48 +9,48 @@
 
 ---
 
-### 👩‍💻 About Me
+### 👩‍💼 About Me
 
-🎯 Transitioning into the **Business Analyst (BA)** field  
-📍 From **Binh Dinh, Viet Nam**  
-📚 Currently studying at **University of Finance and Marketing (UFM)**  
-🧠 Passionate about bridging the gap between **business needs** and **technical solutions**  
-📈 Skilled in gathering requirements, analyzing systems, and modeling processes using **UML**, **BPMN**, and **user stories**  
-💡 Background in web development helps me understand systems from both the user and developer perspectives
+🎯 **Aspiring Business Analyst** passionate about aligning **business goals** with **technical solutions**  
+🌍 Based in **Binh Dinh, Viet Nam**  
+🎓 Currently pursuing my degree at **University of Finance and Marketing (UFM)**  
+💼 Adept at gathering requirements, analyzing workflows, and designing solutions using **UML**, **BPMN**, and **user stories**  
+💻 Former web developer — bringing a dual perspective of user and developer to every project  
+🌱 Always learning and growing in data analytics, system thinking, and communication
 
 ---
 
-### 🛠️ Skills & Tools
+### ⚙️ Skills & Tools
 
 <p align="center">
   <!-- BA Tools -->
-  <img src="https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=uml&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BPMN-0052CC?style=for-the-badge&logo=business-process-model&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UML-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/BPMN-0052CC?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/User%20Stories-F48C06?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" />
   <br><br>
   <!-- Dev Tools -->
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
 
-### 📊 Highlight Projects
+### 🚀 Featured Projects
 
-| Project | Description | Tools |
-|--------|-------------|-------|
-| 🏨 **Hotel Booking System (Mường Thanh)** | Analyzed and modeled booking, payment, and supplier workflows using BPMN and SWOT | BPMN, SWOT, Excel |
-| 📦 **E-commerce Analysis** | Processed retail transaction data to visualize trends and recommend warehouse optimizations | Excel, Power BI |
-| 🧾 **Student Score Management** | Created use case & class diagrams to support development of score tracking system | UML, C++, MySQL |
+| 📌 Project | 📝 Description | 🧰 Tools |
+|-----------|----------------|----------|
+| 🏨 **Hotel Booking System (Mường Thanh)** | Mapped booking, payment, and supplier workflows using BPMN and SWOT analysis for process optimization | BPMN, SWOT, Excel |
+| 📦 **E-commerce Analytics Dashboard** | Cleaned and visualized retail transaction data to uncover insights and suggest warehouse improvements | Excel, Power BI |
+| 🧾 **Student Score Management System** | Designed use case and class diagrams to support development and system architecture | UML, C++, MySQL |
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NhuQuynhBA&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200" width="45.5%"/>
@@ -59,7 +59,7 @@
 
 ---
 
-### 📫 Connect With Me
+### 📬 Connect With Me
 
 <p align="center">
   <a href="mailto:caonhuquynhwl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
